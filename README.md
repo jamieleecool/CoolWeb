@@ -2,6 +2,7 @@
 A README.md file is intended to quickly orient readers to what your project can do.  New to Markdown? [Learn more](https://go.microsoft.com/fwlink/p/?LinkId=524306&amp;clcid=0x409)
 ## Edit this README and commit your change to a topic branch
 In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
+
 Then make some changes to this README file.
 &gt; Make some **edits** to _this_ blockquote
 When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.
